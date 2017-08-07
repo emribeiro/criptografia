@@ -1,5 +1,5 @@
 
-def bitwise_XOR(value1, value2):
+def bitwise_xor(value1, value2):
     i = 0
     resultado = ""
     for x in value1:
