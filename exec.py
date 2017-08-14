@@ -1,5 +1,5 @@
 from commons import conversor, bitwise_operations,strings
-from des import des_tables_operations, des_tables
+from des import encriptation
 
 
 
@@ -21,7 +21,8 @@ def main():
 
     #print(strings.split_str_into_len("teste", 2))
 
-    print(strings.padding_to_multiple_len('00', 9))
+    #print(strings.padding_to_multiple_len('00', 9))
+
+    encriptation.des_encript('0123456789ABCDEF', '133457799BBCDFF1')
 if __name__ == "__main__":
     main()
-

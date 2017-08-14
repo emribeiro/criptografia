@@ -11,5 +11,8 @@ def bitwise_xor(value1, value2):
     return resultado
 
 
+def bitwise_left_shift(value, shift_times):
+    pass
+
 
 
