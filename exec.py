@@ -23,6 +23,8 @@ def main():
 
     #print(strings.padding_to_multiple_len('00', 9))
 
-    encriptation.des_encript('0123456789ABCDEF', '133457799BBCDFF1')
+    # encriptation.des_encript('0123456789ABCDEF', '133457799BBCDFF1')
+
+    bitwise_operations.left_shift("teste", 6)
 if __name__ == "__main__":
     main()
