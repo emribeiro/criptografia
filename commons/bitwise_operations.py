@@ -28,6 +28,8 @@ def left_shift(value, shift_times):
         new_value[0], new_value[len(new_value) - 1] = new_value[len(new_value) - 1], new_value[0]
         value = list(new_value)
 
-        print(new_value)
+    return ''.join(new_value)
+
+
 
 

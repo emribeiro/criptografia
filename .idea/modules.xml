@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../PythonBootcamp/.idea/PythonBootcamp.iml" filepath="$PROJECT_DIR$/../PythonBootcamp/.idea/PythonBootcamp.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/criptografia.iml" filepath="$PROJECT_DIR$/.idea/criptografia.iml" />
     </modules>
   </component>
